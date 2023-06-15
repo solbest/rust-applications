@@ -16,5 +16,6 @@ Rust is a modern systems programming language developed by the Mozilla Corporati
     * cargo new hello-world
     * cargo build
     * cargo run
+    
 **Module Std:io**
     Because they are traits, Read and Write are implemented by a number of other types, and you can implement them for your types too. As such, you’ll see a few different types of I/O throughout the documentation in this module: Files, TcpStreams, and sometimes even Vec<T>s.
